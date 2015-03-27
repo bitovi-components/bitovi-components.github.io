@@ -1,0 +1,23 @@
+{
+  "name": "bitovi-components-site",
+  "version": "0.0.0",
+  "description": "Site for bitovi-componets",
+  "scripts": {
+    "documentjs": "./node_modules/.bin/documentjs"
+  },
+  "devDependencies": {
+    "documentjs": "bitovi/documentjs#0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bitovi-components"
+  },
+  "keywords": [
+    "CanJS",
+    "UI",
+    "Slider"
+  ],
+  "author": "Bitovi",
+  "license": "MIT",
+  "homepage": "http://bitovi-components.github.io"
+}
