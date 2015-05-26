@@ -6,7 +6,7 @@
     "documentjs": "./node_modules/.bin/documentjs"
   },
   "devDependencies": {
-    "documentjs": "bitovi/documentjs#0.3"
+    "documentjs": "bitovi/documentjs#v0.3.0-pre.2"
   },
   "repository": {
     "type": "git",
